@@ -1,0 +1,38 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: whitesmoke;
+    height:100vh;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.nav{
+    font-family: calibri;
+    width: 100%;
+    padding: 10px;
+    background-color: #222;
+    color: white;
+    height: 120px;
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    font-size: 25pt;
+    font-weight: bold;
+}
+
+.links a{
+    padding:10px;
+    color: white;
+    text-decoration: none;
+    font-size: 13pt;
+}
+
+.links a:hover{
+    color: #999;
+}
