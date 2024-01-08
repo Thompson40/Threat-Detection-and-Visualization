@@ -13,7 +13,7 @@ body{
     font-family: calibri;
     width: 100%;
     padding: 10px;
-    background-color: #222;
+    background-color: #4b2242;
     color: white;
     height: 120px;
     justify-content: space-evenly;
@@ -34,5 +34,5 @@ body{
 }
 
 .links a:hover{
-    color: #999;
+    color: #ccc;
 }
